@@ -1,0 +1,3 @@
+BUGS:
+- Methods worldFromTile and tileFromWorld return different on two less coordinates (22, 35) and (20, 33).
+- A* Pathfinding need method to move on object when on 1-2 tiles near hem
