@@ -10,4 +10,4 @@ math, isometric understanding, working with tiles, A* algorithm, touches and of 
 
 All questions on: gronzzz@gmail.com .
 
-twitter: @holycode
+twitter: @holy_code
